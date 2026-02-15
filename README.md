@@ -18,12 +18,29 @@ The dataset contains 2499 patient records with demographic, behavioural and clin
 * Organ Condition
 * Family History Risk
 * Alcohol Consumption
+* Image URL
 
   
 ## Tools Used
+*  Power BI for Dax formulas
+*  PowerPoint for wireframing
+
+  
 ## Data Cleaning and Preparation
+
+
 ## Key Questions and Analysis
 ## Key Insights
+* Smoking prevalence was highest among males aged 25-34
+* An individual who smoked
+
+  
 ## Recommendations
-## Data Visualization
+
+
+
+## Data Visualisation
+
+
 ## Conclusion
+
